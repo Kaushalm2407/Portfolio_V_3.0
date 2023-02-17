@@ -33,20 +33,19 @@ h6 {
 }
 
 /*--------------------------------------------------------------
-# Resume Download button
+# button
 --------------------------------------------------------------*/
 .btn {
-    background-color: #173b6c;
+    background-color: #149ddd;
     border: none;
     color: white;
-    padding: 5px 25px;
+    padding: 5px 10px;
     cursor: pointer;
-    font-size: 20px;
-    text-align:center;
-
+    font-size: 15px;
+    
 }
 .btn:hover {
-  background-color: RoyalBlue;
+  background-color:#149ddd ;
 }
 
 /*--------------------------------------------------------------
