@@ -3,7 +3,8 @@
     "",
     "\\assets",
     "\\assets\\css",
-    "\\assets\\img"
+    "\\assets\\vendor",
+    "\\assets\\vendor\\php-email-form"
   ],
   "SelectedNode": "\\index.html",
   "PreviewInSolutionExplorer": false
