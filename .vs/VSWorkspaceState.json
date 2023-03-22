@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\assets",
+    "\\assets\\img"
   ],
-  "SelectedNode": "\\I:\\My Drive\\Portfolio\\V_3.0",
+  "SelectedNode": "\\index.html",
   "PreviewInSolutionExplorer": false
 }
