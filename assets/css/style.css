@@ -761,8 +761,12 @@ project
   text-align: center;
   font-family: arial;
 }
-
-.price {
+.project-item {
+  margin: 12px;
+  float: left;
+  width: 280px;
+}
+.date {
   color: grey;
   font-size: 22px;
 }
